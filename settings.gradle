@@ -1,0 +1,1 @@
+include ':demo', ':lib-media-selector', ':lib-media-scanner'
